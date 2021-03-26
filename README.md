@@ -1,5 +1,11 @@
+# GRAIL
+GRAIL (Go Rule enforcement, Anticheat, and Investigation Library) is an AI that learns cheating patterns, marks cheaters, and assists moderators in assessing potential cheaters.
+
+It is a fork of [Irwin](https://github.com/clarkerubber/irwin), whose readme is below.
+
+___
+
 # irwin
-irwin is the AI that learns cheating patterns, marks cheaters, and assists moderators in assessing potential cheaters.
 
 ![screenshot of Irwin report](https://i.imgur.com/UcVlDK3.png)
 
